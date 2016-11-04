@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+git init -> git status
+
+Need to initialized it. Have to start somewhere...
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Only shows what is going to be added to the repository.
